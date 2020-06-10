@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.body {
+  height: 100%;
+  width: 100%;
+  position: relative;
+
+}
+
+.top_container {
+  width:100%;
+  background-color: white;
+  position: relative;
+  height: 200px;
+  padding: 0;
+  margin: 0;
+}
+
+.welcome{
+  margin: 0;
+  font-weight: normal;
+  color: #393e46;
+  display: inline-block;
+  position: absolute;
+  left: 47%;
+  top: 65px;
+}
+
+
+.logo_name {
+  padding:0;
+  display: inline-block;
+  position: absolute;
+  width: 30%;
+  bottom: 50px;
+  left: 35%;
+}
+
+.first_container {
+
+  margin: 0;
+  padding: 0;
+  background-image: url("FirstBackBg.png");
+    position: relative;
+}
+
+.background {
+  width:100%;
+  height: auto;
+}
